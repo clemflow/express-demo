@@ -1,0 +1,23 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js" 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clemflow/express-demo.git"
+  },
+  "author": "clemflow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clemflow/express-demo/issues"
+  },
+  "homepage": "https://github.com/clemflow/express-demo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
